@@ -6,30 +6,10 @@ Allows users to order donuts from a local donut shop. Implemented an order submi
 with Firebase so that menu information and customer order data can be stored. 
 
 ## Running the Application
-In the project directory, you can run:
-
-### `npm start`
+Run `npm start`.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Screenshots
 <img width="1705" alt="Screen Shot 2023-06-27 at 2 56 04 PM" src="https://github.com/leezahuor/donut-order-app/assets/114435456/99f765a4-c7da-4eb9-998e-9a372049ac2e">
